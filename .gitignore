@@ -1,0 +1,16 @@
+# Virtuelna okolina
+Lib/
+pyvenv.cfg
+
+# IDE specifični fajlovi
+.idea/
+
+# Keširani fajlovi
+__pycache__/
+
+# Privremeni fajlovi
+test_main.http
+Scripts/
+
+# Zavisnosti (ako je specifično za vaš projekat)
+*.log

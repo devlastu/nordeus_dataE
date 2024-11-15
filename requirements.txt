@@ -1,0 +1,9 @@
+fastapi
+pymysql
+pytz
+uvicorn
+requests
+pytest
+httpx
+python-dotenv
+datetime
